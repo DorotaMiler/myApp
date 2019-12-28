@@ -1,12 +1,12 @@
-
+##############################
 # Log file
+##############################
 *.log
 
+##############################
 # BlueJ files
+##############################
 *.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
@@ -24,13 +24,18 @@ hs_err_pid*
 ##############################
 ## Java
 ##############################
+# below - mobile Tools for Java (J2ME)
 .mtj.tmp/
 # below - compiled class file
 *.class
+# below - package Files #
 *.jar
 *.war
-*.ear
 *.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
 hs_err_pid*
 
 ##############################
